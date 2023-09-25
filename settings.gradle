@@ -3,4 +3,5 @@ rootProject.name = 'microservices-demo'
 include 'service-products'
 include 'service-orders'
 include 'service-inventory'
+include 'service-discovery'
 
